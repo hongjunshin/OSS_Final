@@ -5,12 +5,12 @@
 This project is useful to freshman in HGU. Firstly, when we want to check the weather, meal information, bus schedule,or other information, we need to go to website one by one. However, this is such a hassle. The project is a website created by WordPress. This project has 6 pages. Pages have following information. information is this format 
   >page name: data
 
-  >> Home : weather, homepage of HGU
-  >> HGU  : All website that is related to HGU
-  >> Websites: Useful websites to know
-  >> Game1  : Search Word Puzzle and Asteroids Game
-  >> Game2  : Dinosaur Game and Crossword Puzzle
-  >> Contact: Information of publisher and more information to develop website.
+  * Home : weather, homepage of HGU
+  * HGU  : All website that is related to HGU
+  * Websites: Useful websites to know
+  * Game1  : Search Word Puzzle and Asteroids Game
+  * Game2  : Dinosaur Game and Crossword Puzzle
+  * Contact: Information of publisher and more information to develop website.
 
 When I was first in this school, it is hard to know the 
 
