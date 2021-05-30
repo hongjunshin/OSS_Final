@@ -3,7 +3,8 @@
   
 <h1>Why is this project useful?</h1> 
 This project is useful to freshman in HGU. Firstly, when we want to check the weather, meal information, bus schedule,or other information, we need to go to website one by one. However, this is such a hassle. The project is a website created by WordPress. This project has 6 pages. Pages have following information. information is this format 
-  >page name: data
+
+  * page name: data
 
   * Home : weather, homepage of HGU
   * HGU  : All website that is related to HGU
