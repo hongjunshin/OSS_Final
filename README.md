@@ -32,6 +32,7 @@ If something is not working go to IPaddress/wp-admin and login to WordPress and 
 <h1>Where can I get more help, if I need it?</h1>
 Mail: 21700407@handong.edu
 Phone: 010-7572-2362
+You can contact to mail and phone if you need help.
 
 To install Apache, PHP, MySQL and WordPress, visit https://www.makeuseof.com/tag/host-wordpress-raspberry-pi/
 
