@@ -15,12 +15,10 @@ When I was first in this school, it is hard to know the all the website that is 
 
 <h1>How do I get started?</h1>
 To start this project, we need to download some software. Also, you need to have a Raspberry Pi to use.
+
 1. Login to your Raspberry Pi
-
 2. Install Linux
-
 3. Install Apache, PHP, MySQL on Raspberry Pi. 
-
 4. Install WordPress on /var/www/html/
 5. Configure MySQL
 6. Create the WordPress Database
