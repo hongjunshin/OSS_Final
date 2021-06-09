@@ -1,3 +1,6 @@
+<h1>Presentation Video (YouTube) Link</h1>
+<h1>https://youtu.be/30RvKNb4vSA</h1>
+
 <h1> What does this project do? </h1>
   This project is a website for freshman in Handong Global University. Like other website, we can click the link and move to certain page. Each pages tells information about HGU. Website is developed using WordPress(CMS). 
   
@@ -41,6 +44,3 @@ To install Apache, PHP, MySQL and WordPress, visit https://www.makeuseof.com/tag
 
 Search WordPress on Youtube. There are many videos to learn WordPress.
 
-
-<h1>Presentation Video (YouTube) Link</h1>
-<h1>https://youtu.be/30RvKNb4vSA</h1>
